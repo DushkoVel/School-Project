@@ -1,0 +1,66 @@
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\View\MainWindow.g.cs
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\App.g.cs
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\View\MainWindow.baml
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.Cache
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+D:\VSProjects\MVVM\worlds-simplest-csharp-wpf-mvvm-example-master\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
+D:\Dropbox\ПС+ПМУ\Labs\Upr3\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+D:\Dropbox\ПС+ПМУ\Labs\Upr3\PS-Lab3-example3\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\bin\Debug\MinimalMVVM.exe.config
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.AssemblyReference.cache
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\View\MainWindow.g.cs
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\App.g.cs
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\View\MainWindow.baml
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.cache
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.CoreCompileInputs.cache
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+C:\Users\velin\Desktop\PS-Lab5-example3\PS-Lab5-example3\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\bin\Debug\MinimalMVVM.exe.config
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.AssemblyReference.cache
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.SuggestedBindingRedirects.cache
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\View\MainWindow.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\App.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\View\MainWindow.baml
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.cache
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.CoreCompileInputs.cache
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+D:\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\bin\Debug\MinimalMVVM.exe.config
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\bin\Debug\MinimalMVVM.exe
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\bin\Debug\MinimalMVVM.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.AssemblyReference.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.SuggestedBindingRedirects.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\View\MainWindow.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\App.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM_MarkupCompile.lref
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\View\MainWindow.baml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.g.resources
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.Properties.Resources.resources
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.GenerateResource.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.csproj.CoreCompileInputs.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.exe
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\MinimalMVVM\obj\Debug\MinimalMVVM.pdb

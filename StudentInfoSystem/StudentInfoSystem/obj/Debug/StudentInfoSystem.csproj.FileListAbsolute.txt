@@ -1,0 +1,74 @@
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\UserLogin.exe
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\UserLogin.pdb
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\App.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.baml
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\Izhod.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\Izhod.baml
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\EntityFramework.dll
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\EntityFramework.xml
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\CommonServiceLocator.dll
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.dll
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\System.Windows.Interactivity.dll
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.xml
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\CommonServiceLocator.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\EntityFramework.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\System.Windows.Interactivity.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\UserLogin.exe
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\UserLogin.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\UserLogin.exe.config
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\EntityFramework.xml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.xml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.AssemblyReference.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.SuggestedBindingRedirects.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\Izhod.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\App.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem_MarkupCompile.lref
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\Izhod.baml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\MainWindow.baml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.g.resources
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CoreCompileInputs.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.CopyComplete
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb

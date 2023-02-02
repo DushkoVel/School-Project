@@ -1,0 +1,12 @@
+D:\PS_33_Dushko\UserLogin\bin\Debug\UserLogin.exe.config
+D:\PS_33_Dushko\UserLogin\bin\Debug\UserLogin.exe
+D:\PS_33_Dushko\UserLogin\bin\Debug\UserLogin.pdb
+D:\PS_33_Dushko\UserLogin\obj\Debug\UserLogin.csproj.AssemblyReference.cache
+D:\PS_33_Dushko\UserLogin\obj\Debug\UserLogin.csproj.SuggestedBindingRedirects.cache
+D:\PS_33_Dushko\UserLogin\obj\Debug\UserLogin.csproj.CoreCompileInputs.cache
+D:\PS_33_Dushko\UserLogin\obj\Debug\UserLogin.exe
+D:\PS_33_Dushko\UserLogin\obj\Debug\UserLogin.pdb
+D:\PS_33_Dushko\UserLogin\bin\Debug\DotLiquid.dll
+D:\PS_33_Dushko\UserLogin\bin\Debug\DotLiquid.xml
+D:\PS_33_Dushko\UserLogin\bin\Debug\it\DotLiquid.resources.dll
+D:\PS_33_Dushko\UserLogin\obj\Debug\UserLogin.csproj.CopyComplete

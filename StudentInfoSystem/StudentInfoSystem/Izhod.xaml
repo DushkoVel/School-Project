@@ -1,0 +1,14 @@
+﻿<Window x:Class="StudentInfoSystem.Izhod"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StudentInfoSystem"
+        mc:Ignorable="d"
+        Title="Izhod" Height="200" Width="300">
+    <Grid>
+        <Label Content="Сигурни ли сте, че искате да излезете" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0 55 0 0"></Label>
+        <Button x:Name="btnDa" Click="btnDa_Click" Content="Да" Height="50" Width="100" HorizontalAlignment="Left" VerticalAlignment="Bottom"></Button>
+        <Button x:Name="btnNe" Click="btnNe_Click" Content="Не" Height="50" Width="100" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Button>
+    </Grid>
+</Window>

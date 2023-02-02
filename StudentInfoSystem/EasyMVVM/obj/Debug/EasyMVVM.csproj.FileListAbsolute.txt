@@ -1,0 +1,17 @@
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\bin\Debug\EasyMVVM.exe.config
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\bin\Debug\EasyMVVM.exe
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\bin\Debug\EasyMVVM.pdb
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM.csproj.AssemblyReference.cache
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM.csproj.SuggestedBindingRedirects.cache
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\MainWindow.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\App.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.cache
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM_MarkupCompile.lref
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\MainWindow.baml
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM.g.resources
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM.Properties.Resources.resources
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM.csproj.GenerateResource.cache
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM.csproj.CoreCompileInputs.cache
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM.exe
+D:\PS_33_Dushko\StudentInfoSystem\EasyMVVM\obj\Debug\EasyMVVM.pdb

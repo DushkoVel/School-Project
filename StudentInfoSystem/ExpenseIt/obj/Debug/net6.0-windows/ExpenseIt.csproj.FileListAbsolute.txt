@@ -1,0 +1,50 @@
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.exe
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.deps.json
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.runtimeconfig.json
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.dll
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.pdb
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.csproj.AssemblyReference.cache
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseItHome.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseReport.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\App.g.cs
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt_MarkupCompile.cache
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt_MarkupCompile.lref
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseItHome.baml
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseReport.baml
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\MainWindow.baml
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.g.resources
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.GeneratedMSBuildEditorConfig.editorconfig
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.AssemblyInfoInputs.cache
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.AssemblyInfo.cs
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.csproj.CoreCompileInputs.cache
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.dll
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\refint\ExpenseIt.dll
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.pdb
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.genruntimeconfig.cache
+D:\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ref\ExpenseIt.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.exe
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.deps.json
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.runtimeconfig.json
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\bin\Debug\net6.0-windows\ExpenseIt.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.csproj.AssemblyReference.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseItHome.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseReport.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\App.g.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt_MarkupCompile.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt_MarkupCompile.lref
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseItHome.baml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseReport.baml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.g.resources
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.AssemblyInfoInputs.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.AssemblyInfo.cs
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.csproj.CoreCompileInputs.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\refint\ExpenseIt.dll
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.pdb
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ExpenseIt.genruntimeconfig.cache
+D:\Dokumenti\Tehniceski\Programni Sredi\PS_33_Dushko\StudentInfoSystem\ExpenseIt\obj\Debug\net6.0-windows\ref\ExpenseIt.dll
